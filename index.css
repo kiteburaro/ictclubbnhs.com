@@ -177,6 +177,12 @@ section{
     font-size: larger;
 }
 
+#head1,#head4,#para1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
 h1{
     margin-bottom: 15px;
 }
@@ -557,5 +563,6 @@ h4{
     justify-content: space-between;
     align-items: center;
 }
+
 
 /* dito na ung last ng hero section 4************************************************/
